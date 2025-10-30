@@ -1,0 +1,6 @@
+.select-trigger [data-radix-select-icon] {
+  display: none !important;
+}
+.select-trigger svg:not(.custom-icon) {
+  display: none !important;
+}
